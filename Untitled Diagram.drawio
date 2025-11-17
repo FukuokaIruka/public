@@ -4,24 +4,15 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="eSZbb_H-yXzDc9BzzQKe-5" value="バス予約画面" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="eSZbb_H-yXzDc9BzzQKe-5" value="データ表示画面" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="70" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="eSZbb_H-yXzDc9BzzQKe-7" value="バス予約状況画面" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="eSZbb_H-yXzDc9BzzQKe-7" value="データ出力画面" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="110" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="eSZbb_H-yXzDc9BzzQKe-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="eSZbb_H-yXzDc9BzzQKe-5" target="eSZbb_H-yXzDc9BzzQKe-7">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="180" as="sourcePoint" />
-            <mxPoint x="440" y="130" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="eSZbb_H-yXzDc9BzzQKe-14" value="バス変更画面" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="150" width="100" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="eSZbb_H-yXzDc9BzzQKe-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="eSZbb_H-yXzDc9BzzQKe-7" target="eSZbb_H-yXzDc9BzzQKe-14">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="700" y="91" as="sourcePoint" />
             <mxPoint x="440" y="130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
