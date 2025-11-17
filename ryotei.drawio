@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0" version="29.0.3">
   <diagram name="Page-1" id="6v2f9Ed1ARzwTNeahL2n">
-    <mxGraphModel dx="1273" dy="652" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1157" dy="593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -22,7 +22,7 @@
             <mxPoint x="184.71" y="140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4_x4b_BSQqc2dFiUDkqS-8" value="バス予約確認画面を選択" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="4_x4b_BSQqc2dFiUDkqS-8" value="アプリ利用確認画面を選択" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="125" y="140" width="115" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4_x4b_BSQqc2dFiUDkqS-9" value="" style="endArrow=classic;html=1;rounded=0;elbow=vertical;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="4_x4b_BSQqc2dFiUDkqS-11" edge="1">
@@ -35,13 +35,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="4_x4b_BSQqc2dFiUDkqS-11" value="バス予約状況ロード" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="4_x4b_BSQqc2dFiUDkqS-11" value="顧客データ集計" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="330" y="200" width="130" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="4_x4b_BSQqc2dFiUDkqS-12" value="便選択&lt;div&gt;画面生成&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="4_x4b_BSQqc2dFiUDkqS-12" value="顧客データ表示&lt;br&gt;&lt;div&gt;画面生成&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="335" y="240" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4_x4b_BSQqc2dFiUDkqS-16" value="便選択&lt;br&gt;&lt;div&gt;画面表示&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="4_x4b_BSQqc2dFiUDkqS-16" value="顧客データ&lt;br&gt;&lt;div&gt;画面表示&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="125" y="290" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4_x4b_BSQqc2dFiUDkqS-17" value="" style="endArrow=classic;html=1;rounded=0;elbow=vertical;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="4_x4b_BSQqc2dFiUDkqS-16" edge="1">
@@ -79,10 +79,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="B7JRRebRWuEApXNXQ84--7" value="&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;便予約状況画面生成&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="B7JRRebRWuEApXNXQ84--7" value="顧客データ出力準備" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="340" y="377" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="B7JRRebRWuEApXNXQ84--9" value="便予約状況画面表示" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="B7JRRebRWuEApXNXQ84--9" value="顧客データ出力" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="125" y="430" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="B7JRRebRWuEApXNXQ84--10" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" edge="1">
