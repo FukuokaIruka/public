@@ -22,7 +22,7 @@
             <mxPoint x="184.71" y="140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4_x4b_BSQqc2dFiUDkqS-8" value="バス予約機能を選択" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="4_x4b_BSQqc2dFiUDkqS-8" value="タクシー運賃計算画面を選択" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="125" y="140" width="115" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4_x4b_BSQqc2dFiUDkqS-9" value="" style="endArrow=classic;html=1;rounded=0;elbow=vertical;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="4_x4b_BSQqc2dFiUDkqS-11" edge="1">
@@ -35,13 +35,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="4_x4b_BSQqc2dFiUDkqS-11" value="旅程計算" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="4_x4b_BSQqc2dFiUDkqS-11" value="タクシー運賃ロード" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="330" y="200" width="130" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="4_x4b_BSQqc2dFiUDkqS-12" value="旅程選択&lt;div&gt;画面生成&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="4_x4b_BSQqc2dFiUDkqS-12" value="行先選択&lt;div&gt;画面生成&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="335" y="240" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4_x4b_BSQqc2dFiUDkqS-16" value="バス予約&lt;br&gt;&lt;div&gt;画面表示&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="4_x4b_BSQqc2dFiUDkqS-16" value="行先選択&lt;br&gt;&lt;div&gt;画面表示&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="125" y="290" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4_x4b_BSQqc2dFiUDkqS-17" value="" style="endArrow=classic;html=1;rounded=0;elbow=vertical;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="4_x4b_BSQqc2dFiUDkqS-16" edge="1">
@@ -60,7 +60,7 @@
             <mxPoint x="350" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="B7JRRebRWuEApXNXQ84--3" value="バス選択" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="B7JRRebRWuEApXNXQ84--3" value="行先選択" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="125" y="340" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="B7JRRebRWuEApXNXQ84--4" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="4_x4b_BSQqc2dFiUDkqS-16" target="B7JRRebRWuEApXNXQ84--3" edge="1">
@@ -69,7 +69,7 @@
             <mxPoint x="350" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="B7JRRebRWuEApXNXQ84--5" value="旅程保存" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="B7JRRebRWuEApXNXQ84--5" value="行先保存" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="340" y="380" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="B7JRRebRWuEApXNXQ84--6" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="B7JRRebRWuEApXNXQ84--3" target="B7JRRebRWuEApXNXQ84--5" edge="1">
@@ -82,7 +82,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="B7JRRebRWuEApXNXQ84--7" value="保存完了画面生成" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="B7JRRebRWuEApXNXQ84--7" value="計算結果&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;画面生成&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="340" y="410" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="B7JRRebRWuEApXNXQ84--8" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="B7JRRebRWuEApXNXQ84--5" target="B7JRRebRWuEApXNXQ84--7" edge="1">
@@ -91,7 +91,7 @@
             <mxPoint x="350" y="430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="B7JRRebRWuEApXNXQ84--9" value="保存完了画面表示" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="B7JRRebRWuEApXNXQ84--9" value="計算結果画面表示" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="130" y="450" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="B7JRRebRWuEApXNXQ84--10" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="B7JRRebRWuEApXNXQ84--7" target="B7JRRebRWuEApXNXQ84--9" edge="1">
